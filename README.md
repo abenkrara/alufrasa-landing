@@ -8,11 +8,6 @@ Landing page de alta conversión (CRO) y diseño premium para **ALUFRASA**, tall
 - **SEO Local & Schema.org**: Marcado estructurado JSON-LD tipo `HomeAndConstructionBusiness` con geolocalización de Valencia, Benicalap y áreas metropolitanas.
 - **100% Responsive & Mobile-First**: Diseñado específicamente para usuarios móviles que buscan presupuestos rápidos.
 
-## 📍 Datos del Negocio
-- **Ubicación**: Av. de Burjassot, 168, Benicalap, 46025 València
-- **Teléfono**: [+34 656 27 81 93](tel:+34656278193)
-- **WhatsApp**: [+34 656 27 81 93](https://wa.me/34656278193)
-
 ## 📦 Despliegue en Vercel
 Este proyecto es estático y no requiere pasos de compilación:
 1. Conecta este repositorio en [Vercel](https://vercel.com/new).
